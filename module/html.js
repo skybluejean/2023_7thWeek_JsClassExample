@@ -1,3 +1,5 @@
+module.exports = `
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -11,32 +13,19 @@
 
 <body>
 
-  <div></div>
-
-
-
-  <div></div>
-  
-    
-
-  <div></div>
-
-
-
-  <div></div>
-
-
-
-  <div></div>
-
-
   <script>
 
-    console.log('hello');
-    const newBox = document.createElement('div');
+  <h1>I am Server</h1>
 
   </script>
-
   
 </body>
 </html>
+
+`
+
+/*{
+  htmlBasic : "<!DOCTYPE html>",
+  content : []
+}
+*/
